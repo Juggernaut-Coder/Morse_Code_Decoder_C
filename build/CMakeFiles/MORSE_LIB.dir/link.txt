@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMORSE_LIB.a CMakeFiles/MORSE_LIB.dir/src/morse_lib/morse_code.c.o CMakeFiles/MORSE_LIB.dir/src/morse_lib/read.c.o
+/usr/bin/ranlib libMORSE_LIB.a

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall -Wextra CMakeFiles/MorseCodeDecoder.dir/src/main.c.o -o "/home/dirtyv/Codes/computer_systems/Assignment4 MorseCodeDecoder/MorseCodeDecoder"  libMORSE_LIB.a 
